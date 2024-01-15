@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b9396bf-9ad0-4a11-988e-21e0c9147a89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/base/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base" beforeDir="false" afterPath="$PROJECT_DIR$/base" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/added_tokens.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/pytorch_model.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/special_tokens_map.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/tokenizer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/tokenizer_config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/vocab.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legacy" beforeDir="false" afterPath="$PROJECT_DIR$/legacy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/legacy/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legacy/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legacy/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legacy/cws_model.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legacy/ner_model.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legacy/pos_model.bin" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2awTN5tRPR0J5wu0sl8H5QJ6Be9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "match",
+    "last_opened_file_path": "/Users/lisa/Documents/GitHub/ProgMate",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.build",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "redshift",
+      "sqlite"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b9396bf-9ad0-4a11-988e-21e0c9147a89" name="Changes" comment="" />
+      <created>1705228599862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705228599862</updated>
+      <workItem from="1705228602473" duration="39610000" />
+      <workItem from="1705293608175" duration="2307000" />
+      <workItem from="1705296756626" duration="928000" />
+      <workItem from="1705297715866" duration="10482000" />
+      <workItem from="1705308944501" duration="5158000" />
+      <workItem from="1705314222475" duration="2399000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ProgMate$match.coverage" NAME="match Coverage Results" MODIFIED="1705305326474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Match" />
+    <SUITE FILE_PATH="coverage/ProgMate$PdfToPng.coverage" NAME="PdfToPng Coverage Results" MODIFIED="1705241475413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataFormat" />
+    <SUITE FILE_PATH="coverage/ProgMate$PicRecognition.coverage" NAME="PicRecognition Coverage Results" MODIFIED="1705241503032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataFormat" />
+    <SUITE FILE_PATH="coverage/ProgMate$insert.coverage" NAME="insert Coverage Results" MODIFIED="1705308571516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Match" />
+    <SUITE FILE_PATH="coverage/ProgMate$buildDB.coverage" NAME="buildDB Coverage Results" MODIFIED="1705310839138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Match" />
+  </component>
+</project>
