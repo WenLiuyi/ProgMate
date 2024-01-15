@@ -1,0 +1,4 @@
+base filter=lfs diff=lfs merge=lfs -text
+legacy filter=lfs diff=lfs merge=lfs -text
+base.tgz filter=lfs diff=lfs merge=lfs -text
+legacy.tgz filter=lfs diff=lfs merge=lfs -text

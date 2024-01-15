@@ -67,13 +67,16 @@ def pdf_to_png_all(pdfDir, zoom_x=5, zoom_y=5, rotation_angle=0):
     pdfs=all_pdfs(pdfDir)
     for pdf in pdfs:
         pdf_name = os.path.basename(pdf)
+        print(pdf_name)
         if is_Chinese(pdf_name): # 转化为拼音
             p = Pinyin()
             pdf_name = p.get_pinyin(pdf_name)
+            print(pdf_name)
         pdf_to_png(pdf, pdfDir+'/'+pdf_name[:-4])
         print(pdf_name+' has been converted to png.')
     return 0
 
 if __name__ == "__main__":
-    pdf_dir = "D:\\Project\\CuteShq\\ProgMate\\DataFormat\\testfiles"
+    #pdf_dir = "D:\\Project\\CuteShq\\ProgMate\\DataFormat\\testfiles"
+    pdf_dir="./testfiles"
     pdf_to_png_all(pdf_dir)
