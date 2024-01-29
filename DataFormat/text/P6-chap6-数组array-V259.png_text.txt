@@ -1,0 +1,1 @@
+二分法边界确定(功能一样,红色代码与课件PPT上不同,请分析)int bin_find( int b[],intint Iow, int high)int mid;函数调用resultbin_find(a, key, 0, LEN);//While( IoWhigh )注意最后一个参数的取值是数组的长度,而非LEN-l ( 左闭右开区间)count find+ +;mid三(Iow +high)lz;讦(二=blmid] )return mid;else i(blmid])high二mid ;//注意是mid, 不是mid-1elseIow三mid +1;return -1;key:keykey

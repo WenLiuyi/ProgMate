@@ -1,0 +1,1 @@
+8.2.2数组指针数组指针的本质还是指针,只不过它指向的数据实体不是单一类型,而是数组类型。关于指针的所有运算都适用于它。数组指针每次加(减) 1,意味着指针位置向后(前)  移动了整个数组空间的大小,指针值的娈动为整个数组内存空间的字节数。例 8-3数组指针的内存占用示例int a[10];int(*pa)[10]二printf("%#X%#X二%dln"9patl,pa,(void* ) (patl)- (void *)pa);printf("%p%p三%d" ,patl,pa,(pa+1)-pa);程序输出OXGIFDE8OXGIFDCO三40OOOOOOOOOOGIFDE8OOOOOOOOOOGIFDCO = 1&a;

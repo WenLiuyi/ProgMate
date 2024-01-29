@@ -1,0 +1,1 @@
+fOr 应用:最火公约数gcd(a,b)rgcd(b,a%6 ))例4-171  最大公约数(greatest common divisor):输入两个非负整数a和b,用辗转相除法求它们的最大公约数。for(GCD二a % b;GCD!=0;GCD三a %b)a =b;b = GCD;While((GCD二a %b) !=0)a = b;可看出。此时用while语句使得结构更清晰些b =GCD;

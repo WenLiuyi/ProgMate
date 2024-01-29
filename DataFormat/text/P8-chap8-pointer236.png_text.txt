@@ -1,0 +1,1 @@
+8.5.2指针数组与二维数组例 8-11指针数组错用示例#include〈stdio.h>Void printmat4X4int*a[4])程序的本意,是写-个 print_mat4x4 函数 打印一4X4 的 int 型二维数组。inti j;for(i = 0;1<4;i++)for(i二 0; j〈4;j++)printf(j二二3?"%dln""%d9a[1][]]);int main()intarray [4][4]三{0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15};print_mat4x4(array);return0;如果运行这个程序,会发生运行时错误。程序崩溃了。思考题:  如何修改?

@@ -1,0 +1,1 @@
+整数与蜉点数小结计算机表示数据时 直被两朵乌云笼罩!精度100%精度可能受损但范围小鱼和熊掌但范围大如: int 231-1如: float 3.4*1038不可兼得除非,'整数家族""浮点数家族"char int short long;float; double;long long, unsigned

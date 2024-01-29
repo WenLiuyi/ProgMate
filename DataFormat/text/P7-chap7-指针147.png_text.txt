@@ -1,0 +1,1 @@
+7.3.9  指针作为函数返回值指针不但可以用作函数的参数,也可以作为函数的返回值。Char*strchr(charintc);/1自己实现strchr( )函数Char*strrchr(charintc);charstrchr(constcharintC)字符串s中存在字符c,strchrO和strrchr0分别if(sCCNULL )返回字符c在s中第次和最后一次出现的位置returnNULL;的指针。若无字符c则返回NULL。While(*s!='0' )i(*5三(char)C )peturn(char *) S;5++;strrchr0函数returnNULL;怎么实现?请读者思考。*5 )*5〉*mY _*5>

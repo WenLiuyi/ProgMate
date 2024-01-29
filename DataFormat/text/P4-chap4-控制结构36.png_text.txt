@@ -1,0 +1,1 @@
+switch语句实例:四则运算例4-91 四则运算charOP;doubleXys pepS二10e-9;scanf(%c%lf%lf"&y);计算器switch(op)科学case十r = X + y;break;CaseDEGHYPF-E厂 = X - y;MCNRM-M-Msbreak;sinCO5tan1 *Case10*logExpModr = X * y;个CEbreak;Case /兀789if (fabs(y)〉eps)n!456123r= X / y;break;default:设计一个简单的计算器!printf("invalid expression:%f %c%fIn"〉X,OP, y);return1;printf("%6.2f%c%6.2f二%12.4fIn"9XsOp, ys p;&0P,&X,

@@ -1,0 +1,1 @@
+补充:三种循环结构的关条简单的 While语句即可提供任何形式的重复(即任何能用 do/while 和 for语句完成的工作也可以通过简单的 While语句来实现)d0for(expressionl; expressionz; expression3)重复结构sfalementsfalementwhile(condition);Whiledo/whileforexpressionl;statement;while(expressionz)While(condition)SlalemenfSatementexpression3;

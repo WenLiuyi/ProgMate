@@ -1,0 +1,1 @@
+变量空间域#include〈stdio.h〉intX;C语言通过定义变量的语句块确定娈量空间域inttest();intmain()语句块是指被一对{}括起来的若干条语句printf("A:%dln", X;找到定义娈量语句块的结束位置} ,是确定娈量空间intX二5;printf("B: %dln", X);域的关键三test();嵌套作用域的变量重名时空间域小的娈量起作用intX =7;printf("c: %dln", X);}娈量只能在定义它的语句块内printf("D:%dln", X);A:0return 0;B:5被访问。输出?^C:7inttest)D3这里的多个 X 的含义不一样。intX三3;returnX;

@@ -1,0 +1,1 @@
+课后渎物] 标准库函数:通用数据处理( include <stdlibh>求整数绝对值随机数快速排席等例:函数原型函数功能double atof(char *s);将s转换为d04b1e类型的数double X己afof("1.2345");prinff(' Ofln", 8);

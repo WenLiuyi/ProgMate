@@ -1,0 +1,1 @@
+7.6 malloc函 数与堆空间#include〈stdio.h>#include〈stdlib.h>输入#include〈string.h〉intmain)9charabcdeintn,1;scanf("%d" _9&);S三(char*)malloc(n);11不要这样charS[n];Scanf("%s",s);输出printf("%d,%dIn" ,strlen(s),sizeof(s));for(1二0;*(5+i)!='0';i++)5,4(或8)printf("%c "9*(5+i));printf(" In" );abcdefree(s);return0;*5;

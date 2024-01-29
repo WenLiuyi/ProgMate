@@ -1,0 +1,1 @@
+7.3.9 指针作为函数返回值当使用函数fgets0读入一行数据时如果输入数据包含换行符并且缓冲区(这里指定义中存放输入的数组1 足够大,则该换行符会被保存在缓冲区中。删除该缓冲区中可能包含的换行符输入:#defineN5012345abcde[enter]int main()输出-11char string[N],*;fgets(string,N,stdin);printf("%dln"〉strlen(string));if((p三strchr(string。'In'))三NULL)fgets输入时把皿也作为字符输入string*三'0' ;123415La/ blcldlelIn|0printf("%dln" _9strlen(string));return0;

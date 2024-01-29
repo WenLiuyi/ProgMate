@@ -1,0 +1,1 @@
+7-4算法(用指针完成)设指针变量 in_line 和 longest 分别指向当前行(新行)  和当前最长行while(还有新输入行)讧( in_line所指向的行比lon8est所指向的行长 )交换in_line和longest指针并保存新行长度;输出 longest 所指内容i_linei_line读入新行longest当前最长行longest当前最长行i_line读入新行i_line当前最长行longest当前最长行longest

@@ -1,0 +1,1 @@
+*点型数据的精度8巳M8ignexponentbits)mantissa (23 bits) 二-3.75相对精度:  机器8(machine epsilon)X =(-1)5 X(1.X表示1与大于1的最小小浮点数之差。不同精度定义的机器不同。以 double 双精度 (尾数M为52位)  为例,数值1是:+1LOQOOOOOOOOOQQQOQOOOOOOOOOOQOOOOOOOOOOOOOOOOOOOOOOOOO而1大的最小双精度浮点数是:+11 QOOOOOOOOOOOOODOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOI此二者之差为机器2:  2-522.220446049250313e-16相对精度是固定的(数值颗粒度)28-127M)2X 20X 20

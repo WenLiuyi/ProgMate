@@ -1,0 +1,1 @@
+While 应用:输入连续整数测试示例(例4-131 不间断的输入整数;直到输入格式有误或输入完成时结束程席如何检测输入格式有误:输入函数scanf的返回值表示正确输入的娈量的个数当正确读入个整数时,其返回值应该为1如果为0则表示输入有误(未读入数据)如果为-1表示输入结束inta;printf("inputaninteger:");While(scanf("%d&a)〉0)printf("valid input:%dln", a);printf("inputaninteger:");printf("Ininvalid input!quit!In" );return0;

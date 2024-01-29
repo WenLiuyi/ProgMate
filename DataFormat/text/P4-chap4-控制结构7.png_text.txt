@@ -1,0 +1,1 @@
+结构化程序的三种控制结构三种控制结构:Statement 1conditioncondition_NconditionStatement 2statement 1Statement 2StatementstatementStatement 3顺序 (sequence)选择 (selection)循环 (repetition)

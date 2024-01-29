@@ -1,0 +1,1 @@
+条件远算符条件运算符) Siflelse结构关系密切相关语法格式为expression ? expression 1 : expression 2含义:  当expression表达式为真时,执行表达式expression1并将它的值作为整个表达式的值;否则执行表达式expression2并将它的值作为整个表达式的值C语言唯-的三元(三目)  运算符。可以简化if/else描述。下列语句是等价的if(grade>二60)printf("Passed!ln");elseprintf("Failed!ln");printf( grade> =60?Passedln"Failedln" );(grade > =60) ? printf(" Passed!ln")printf("Failedlln") ;? _:

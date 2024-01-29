@@ -1,0 +1,1 @@
+do While语句d0do...while结构与whie结构相似。do While 结构do...while结构执行循环体之后再测循环语句块试循环条件。至少执行循环体一次语句While〈表达式〉);(例)  辗转相除求a和h的最大公约数条件tUedoWhile((r = 896) !=0)false工 =896;8=b,b =r;a =6,b =r;While(r != 0);prn(b);While 结构Prn(a);条件falsetIUedo while 用的时候并不多for(; (r= 396) !=0; )语句其完全能被whie取代。但8 =6, b =r;有时候也有其方便之处。Prn(b);

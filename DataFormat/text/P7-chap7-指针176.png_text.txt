@@ -1,0 +1,1 @@
+7.45  指针的比较写-个函数 void strRev(char s[]) , 对字符串 $进行逆序操作。例如若 s的内容是"helloworld"则函数执行后 $的内容娈为"dlrow olleh"phigh确定后卫gh丕成立_用While实现逆序二While(还有逆序字符)交换数据起始位置移动Phigh Plow终止位置移动>= Phighplowtt, Phigh--;plow _PlowPlow

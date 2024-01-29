@@ -1,0 +1,1 @@
+Hanoi塔的递归实现例515:  汉诺塔 Hanoi TowerAVoidhanoiintn〉Charfrom=9char via,char to)8if(n二二1 )move(nsfrom,to);return;fromtohanoi(n-1,from=〉Via);Viamove(nsfrom =to);hanoi(n-1Via _9from,to);函数重在接口。递归重在调用tO,

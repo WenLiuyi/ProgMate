@@ -1,0 +1,1 @@
+补充:结构化编程的三种控制形式结构化编程提倡简单性,Bohm和Jacopini证明实现结构化编程只需要三种控制形式:顺序结构顺序(sequence)选择(selection)选择结构重复(repetition)汗选择结构的三种实现方法:if/else讦 (单项选择)1iflelse (双向选择)switch (多项选择)switch简单的讦结构即可提供任何形式的选择 (即任何能用 if/else 结构和switch 结构完成的工作。也可以组合简单 if 结构来实现)重复结构重复结构的三种实现方法:WhileWhile语句; do/while语句; for语句do/while简单的while语句即可提供任何形式的重复 (即任何能用 do/while 和forfor语句完成的工作。也可以用 While语句来实现)

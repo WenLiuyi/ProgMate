@@ -57,7 +57,7 @@ def PicRecognition(file_dir):
     return 0
 
 if __name__ == '__main__':
-    file_dir = "./testfiles"
+    file_dir = "./pdf"
     PicRecognition(file_dir)
 
 # #图片地址

@@ -1,0 +1,1 @@
+变量与内存的关条GOFFOFchar C;GOFFOCShort S = 0;GOFFO8int a二55,b三a, SUm;GOFF04double d;GOFEF8printf("OXln", &c);printf("ooXIn", &s);printf("ooXln", &a);printf("ooXIn", &b);printf("ooXln", &d);11注意上面输出不是printf("OoXIn'd);内存 (Memory) 示意GOIEF8GOFEFgGOFEFAGOFEFBGOFEFCGOFEFDGOFEFEGOFEFF4注意有无&的区别GOFFOOGOFFOI03GOFFO4050607GOFF0809baOA0BGOFFOC0D0EGOFFOF105

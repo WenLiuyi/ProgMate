@@ -1,0 +1,1 @@
+更多的位运箅实例例1求两个数的平均值:(X + y) >> 1例]从低位到高位。~"第皿位置0n &~(1 << m)例一计算2的]方1 <<n例1计算最大最小值例]从低位到高位。籽"第皿位置1最大值:((X ^ y) & -(X < y))n1(1 << m)最小值:(( ^ y) & -(X > y))更多位运算应用: http://graphics.stanford.edul~seander/bithacks.html#BitReverseObviousX ^X ^

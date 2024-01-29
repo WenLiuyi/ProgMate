@@ -1,0 +1,1 @@
+While 应用(例4-14-2] 输入行数统计  输入一段文本统计行数。输入'容镨"更强些的实现?三 c4-14-1inX对付不规范 (行末不加换轭出D: > alac > example >1123int几二0;行)_的文本2abcd312345char5[100];3 lines。4While(gets(s)!二NULL)n++;三 c4-14-2iXD: > alac > example1123printf("Youinput%dlines.n", );思考:  统计文本2abcd312345中的单词数的程序如何写?

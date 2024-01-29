@@ -1,0 +1,1 @@
+7.3.7  指针作为函数参数形式参数和实际参数是独立的数据实体,两者不管名字是否一样。都没有任何关系。唯发生联系的地方,是在函数调用时,发生了实际参数向形式参数的值传递。如果真的有修改实际参数的需求时怎么办?  例如希望设计一个 swap 函数;函数调用后互换两个实际参数的值。此功能可以用如下程序实现:#include〈stdio.h〉intmain()VoidSwap(int*pa,int*pb)inta三3, b = 4;inttem三swap(&a, &b);*pa*pb;printf("a二%d,b三%dln"9a〉 b);*pb三tem;return0;*pa;

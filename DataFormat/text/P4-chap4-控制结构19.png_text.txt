@@ -1,0 +1,1 @@
+jlelse 条件语句iflelse 条件语句:  用于在条件为false (0)或 true ( 非0 )时采取不同操作。例4-21假设考试成绩大于等于60分为通过。否则为不通过。#include〈stdio.h>流程图intmain()falsetrUe>二 60Railed''Passed'int grade;scanf("%d"9&grade);if (grade〉二60)printf("Passed!" ) ;else伪代码让 studentsis greater than Or equal to 60printf("Failed !" ) ;Print "Passed"return0;elsePrint "Failed"gradegrade

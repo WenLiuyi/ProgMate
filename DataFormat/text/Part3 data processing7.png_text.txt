@@ -1,0 +1,1 @@
+两段有点奇怪"的代码1 153-02c#include〈stdio.h〉int main()int9二625,b二3;printf("%d,%dln"(a三三625),(b=二3) );floatX二0.625,y二0.3;printf("%d,%d"9(X三三0.625 ),(y三三0.3) );return0;1,11,0怪象2:0.3等于03不成立?

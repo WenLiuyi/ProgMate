@@ -1,0 +1,1 @@
+fOr应用:  自然数的倒数和几2(例4-161输入正整数n(n<108)求 Zi-illi。int1n;double ans;scanf("%d"9& );for(ans芒1 =1;1<二 n;i++)ans十二1.0/1;0.0,

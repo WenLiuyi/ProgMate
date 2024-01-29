@@ -1,0 +1,1 @@
+fOr 应用:最火公约数例4-171  最大公约数(greatest common divisor):输入两个非负整数a和b, 用辗转相除法求它们的最大公约数。inta,b,GCD;辗转相除算法gcd(a,b):scanf("%d%d" _9&6);11b不为81.ifb is 0, gcd(a, b)is a, stop。for(GCD三a %b;GCD!二 0;GCD三a %b)2.ifa%b is 0, gcd(a, b)is b, stop。a = b;3. let r〈 a%b,a<bb一[,goto step 2.b =GCD;gcd(a, b)三gcd(b, a%b) ]printf("GCDis:%dln"b);&a,

@@ -1,0 +1,1 @@
+switch语句实例:成绩转换例4-101输入一个成绩 (百分制整数)90分以上为4,70~89为,60~69为C,60以下为卫。switchscorello )switchscorell0 )Case 10:Case 9:Case 10:Case 9:Printf("AIn");Printf("AI");break;break;Case 8:提示:Case 8:Case 7:Case 7:Printf("BI");printf("BI");逻辑清晰break;break;Case 6:Case 6:节省空。Printf("CI");printf("CIn");各有优缺点。程break;break;default:default:席员根据自己的printf("Fln");Printf("Fln");喜好来选择用哪break;break;种风格。

@@ -1,0 +1,1 @@
+7.4.1 指针加臧鏊数_自定义一个字符串查找函数,实现标准 C 函数 strstr 的功能。char米StrStr(constchar*buf,constchar*str)constchar*pbuf,*pstr;do经典的高效字符串匹配算法有KMP (Knuth-Morris-Pratt)pbufbuftt;// pbuf 指向文本开始位置算法BM (Boyer-Moore)pstrstr;pstr 指向子串的开始位置算法等留给感兴趣的读者做While(*pbuf二二*pstr&& *pbuf)进-步深入研究。pbuftt;pstrtt;While 循环判断源字符串中当前的子串是否与目标匹配While(*pbuf&& *pstr);11直到遍历完peturn *pstr?NULL(char* )buf1;

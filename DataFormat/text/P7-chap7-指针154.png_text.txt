@@ -1,0 +1,1 @@
+7.4.1指针加臧鏊数若n是一个整型量p 是一个指针,则 p +n 和 p - n 是合法的指针运算表达式表达式的类型是与p 同类型指针,表达式的值由下式确定:value(p + n)value(p) + n*sizeof(T)Value(p - n)value(n)I*sizeof(T)其中 value( <指针>)表示<指针>的值 (即所表示的实际地址)T代表指针指向的数据类型。0程序输出int3二0;int*P二卫: O0OOOOOOO0GIFEI4printf(" P: %pIn",p);0OOOOOOOOOGIFE18printf("pt1:%p In"90t1);&a;P+1:

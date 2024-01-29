@@ -1,0 +1,1 @@
+笫七讲指针基础句话印象:  变量保存具体数值;指针保存娈量的勺地址int count = 18;itcountPtr = &count;520602h euoc dnu trannchlrrhiaTuWoccia ra aanMananTrisu TIan50000500015000250003dl nhot bhoBlc KInhnoarCountPtr0098964]Vyn19600008780000CoUn8000018TUTI 655000080000CoUntPtrCOUICCount:般变量countPtr: 指针娈量aneVUIN?

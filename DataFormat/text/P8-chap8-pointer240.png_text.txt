@@ -1,0 +1,1 @@
+8.6命令行参数*Windows命令行示例PNG某卫主机ping 192.168.0.1删除文件delD:Imy.txt使用反斜杠1',不要使用正斜杠'1查看网卡配置iconfig /all关闭计算机Shutdown /s /t 1010s延时UNIXILinux命令行示例文件拷贝CP SIC_file dest_file列出当前目录Is -1-1:列出当前目录下所有文件的详细信息切换目录cdA查找文件find~Iane I*.C"~Iame "*.c":将目前目录及其子目录下所有延伸档名是c的文件列出来

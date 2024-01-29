@@ -1,0 +1,1 @@
+While语句例4-101  设程序要打印第一个大于100的2的false指数值。假设初始娈量为 2。(27=128)product <= 100tUe流程图product2C代码片段示例print productintnproduct二2;常见编程错误:循环体中。若没有使循环条件娈scanf("%d"& );为假的动作。或满足条件的break或g0t0语句。将While(product<=n)导致无限循环 (死循环) ,如product三2*product;While(3)printf("%d"9product ) ;*二

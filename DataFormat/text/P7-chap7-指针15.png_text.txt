@@ -1,0 +1,1 @@
+7.1指针 .尥址。妾量.内存之间的关条常用的数据实体:简单娈量和数组数组是具有相同名称和相同类型的一段连续内存空间inta[12]二{1,3,5,-2,-4,6};for(1二0;  1<12;i++ )printf( "%d9a[』]);内存条RAM )printf("In" );8[0]8[1]8[2]8[3]8[4]9[5]8[6]8[7]8[8]8[9]9[10]8[11]工35-2-460内存(MemoryGOFEF8GOFEFg GOFEFAGOFEFBGOFEFCGOFEFDGOFEFE GOFEFF3GOFFOOGOFFOI

@@ -1,0 +1,1 @@
+循环的 "非常规"  控制实例例自然数累加自然数1~0进行累加it i=1r =0;int i=1,r=0;if irscanf(" Ood", 8n);scanf(" %od", &);scanf(" Od" , &n);While(i <=D)while(l)for(izlr=0; ;计+)工 +=j;让(1>)让(1 >D)计+;break;bregk;工 +=i;工 +=i;计+;

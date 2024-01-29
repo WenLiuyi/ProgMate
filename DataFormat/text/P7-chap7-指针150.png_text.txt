@@ -1,0 +1,1 @@
+7.3.9 指针作为函数返回值为了输出原字符串中不用替换的字符。设计一个辅助函数:void print_str(constchar *PI,constchar *p2);用于打印字符串中两个位置[p1,p2)之间的字符。注意,这是一个半闭半开区间,即包括 p1但不包括 p2 所指向的位置。其代码如下:Voidprint_str(constchar*p1,constchar *p2)While(p1p2)putchar(*p1);判断 Dl 指向的字符是否在 D2 指向的字符之前p1++;pl 指向自己当前位置的下一个元素(字符)位置Pl卫2工5正T1010

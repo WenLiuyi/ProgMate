@@ -1,0 +1,1 @@
+循环语句的 "非常规"  控制:break和conlinuebreak 和 continue 语句能快速改娈程序的执行流程。break 语句在 While, for; do/while或 switch 结cotinue 语句在 While for 或do/while构中执行时使程序立即退出这些结构。从而执行结构中执行时跳过该结构体的其余语句该结构后面的第一条语句,常用于提前从循环退出进入下一轮循环。或跳过switch结构的其余部分。for(X二1; X<二10;Xt+)for(X = 1;义<二10;Xtt)讦(X二=5)讦(X=二 5)break;continue;goto_printf("%d,〉 X);printf("%d,〉 X);gOtOothercodesothercodes输出?1,2,3,4输出?1,2,3,4,6,78,9,10

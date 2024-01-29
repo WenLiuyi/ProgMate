@@ -1,0 +1,1 @@
+8.5.1指针数组指针数组就是元素类型为指针的数组。例如:int*piArr[18] ;char*pCArr [20];float*pfArr[30];doublepdArr [40];分别定义了四个数组。数组元素类型分别是 intxcharxfloat*以及 double*数组内容均未进行初始化未初始化的指针 (野指针)  不能访问其指向的内容。指针数组可以在定义时初始化如:char*pcArr[ ]二{"I"LoVeLanguage" };定义了一个长度为 4的指针数组,其中 pcArr[0]指向字符串常量"1";pCArr[1] 指向字符串常量"LoVe" pCArr[2] 指向字符串常量"C";pcArr[3]指向字符串常量"Language"注意数组名作为表达式时可看作指向首元素的指针,即它具有二重指针类型 char*火"C" )PCArr

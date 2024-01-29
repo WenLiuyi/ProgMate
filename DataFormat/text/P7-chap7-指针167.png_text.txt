@@ -1,0 +1,1 @@
+7.4.3 指针相减只有同类型并且指向同数组内的元素的指针才以相减结果是一个有符号整数表示两个指针指向元素之间的下标差。#include〈stdio.h〉int main()inta[10]三{0};输出:int *pI三&a[4];pI二a +4二-4int *p2三a;p2二a;int *p3a + 9;03a +9卫3二5printf("p2p1%dnp3pl二%dln"〉p2p1p3PI);return0;02~01P1

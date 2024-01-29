@@ -1,1 +1,0 @@
-5.理想气体的内能mERT26.麦克斯韦速率分布函数23/2mV -m22 KTf(V) = 4兀e2TkT7.三种特征速率2 KT2 RT(1)最概然速率VpmMmol(2)平均速率8 KT8RTVTmTMmol(3)方均根速率23KT3RTmMmolM mol

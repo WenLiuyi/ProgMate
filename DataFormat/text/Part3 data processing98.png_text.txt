@@ -1,0 +1,1 @@
+数组应用实例选择命令提示符Iicrosoft Windows [版本10.0.22000.556(c)Wicrosoft Corporation。 保留所有权利。例3-10给出标准输入字符序[: | Users IDELL>d:D: |>cd alac列,统计输入中的每个小写字母D: lalac>cd example出现的次数所有大写字母出现0: |alac |example>cd chap30: |alac |example |chap3>c3-10〈C3-10.cI:9的总次数字符总数。(很有趣Ch4e1的例子! )f:8晨 4251:14皿:1血:13运行该程序,并以I0:12:13该程序的源代码作r:17IS5为输入,统计该程七:1610 :序的字符数。I7I:1Upper8ITotal:490

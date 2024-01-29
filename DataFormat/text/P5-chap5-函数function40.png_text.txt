@@ -1,0 +1,1 @@
+Void Swap (int&,inty)程序1没有交换娈量原因分析示意inttemp ;temp=&;8 = Y;三temp ;5Main函数Swam"函数3tempLItenfl5templs9)调用swapb)执行SwapC) 从swap函数函数函数返回

@@ -1,0 +1,1 @@
+break和confinueit2 =1;forit 飞 =1; 孓 <=10; Xt+ )While结构在While ( 8<=10 )printf(" @d8);大多数情况下printf(" %d'8);X++;可以取代for输出: 12345678910结构。但如果While结构中While ( x <= 10 )for (孓=1; & <=10; 8t+ ){( X ==5 )诋( 又 ==5 )的递增表达式continue;continue;在continueprintf(" Od8);prinff(" %d " ,又);X+十;语句之后;则会出现例外。prinff("OK");prinff("OK" );输出?输出?

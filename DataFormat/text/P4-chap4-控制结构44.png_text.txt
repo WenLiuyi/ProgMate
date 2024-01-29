@@ -1,0 +1,1 @@
+While 应用(例4-14-11输入行数统计  输入一段文本,统计行数。输入输出?c4-14-1inXcharD: > alac > example1123intn=o;2abcdWhile( (ch二getchar()) !二EOF )3 lines。3123454if('In'二二Ch)n++;三 c4-14-2inXD: > a1acexampleprintf("Youinput%dIines.In" ,1123n);2 lines。2abcd312345Ch;

@@ -1,0 +1,1 @@
+*补充:将程序函数化的目的与优点提高软件复用性(software reusability) , 用现有函数作为基本组件 (完成特定任务的标准化函数)生成新程序。避免程序的重复性。对程序中需要多次使用的代码段可写成独立的函数供程序调用。函数定义中的参数和所有娈量都是局部娈量能很好地隐藏和封装信息,提高程序的可靠性。函数命名应能有效地表达任务。inputO{.main0processlOmain0input0;process_IO;Process_nO{.}此处省略10000行process_nO;Output0;Output0{.。。}

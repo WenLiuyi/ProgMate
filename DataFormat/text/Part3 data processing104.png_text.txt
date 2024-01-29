@@ -1,0 +1,1 @@
+输入文件控制台应用输出文件标准I0keyboard输入console输出SCreen的重新定向标准|0在默认情况下均对应控制犟台应用(从标准设备层面看,则分别对应键盘和显示器)程序C:lalaclexamplelchap3Ic3-O-O-a+b.exe1输输出彭犟1#include〈stdio.h〉2int main()34int3,b;5Scanf ("%d%d"&b);编译6printf("%dIn'3+b);可执行程序78return 0;91083,

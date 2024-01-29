@@ -1,0 +1,1 @@
+6.7数组应用与实践例 6-29代码。#include<stdio.h>int main0#define MAXN (110)intn,5,皿;&皿)sit Vis[MAXN]溟呲麟缴"始)1找到itgo(int X)intij;for(i=0; in-1; ++i)/ln-1次报数循环。最后剩一人!黧鞴#这个人已经出队, 那么继续寻找for(j-l;im; ++j)While(Vis[x])S=go(s);X=(XtI)On;Printf("%odl" +1);1/报到m,位置s+1(下标从0开始)return X;ls[s]s1;1础扃S=go(s);printf("Oodln" ,s+1);1剩下最后一人return 0;

@@ -1,0 +1,1 @@
+6.5.4标准字符串处理函数字符串输入输出函数 IV(7)strcaf 函数原型:Char* strcat(char*const char* Src);功能:  将字符串 src 追加到字符串 dst 的尾部。注意,字符数组 dst 的空间大小要保证能够容纳追加后形成的字符串。(8)strncat 函数原型:Char* strncat(char*const char* Src, size_tn);功能:  将字符串 src 中最多前n 个字符追加到字符串 dst 的尾部。并在最后添加一个 ' IO'。如果 src 的有效字符数 (不包括结束符)  小于等于1,则 strncat 与 strcat 等价;  否则只将前"个字符追加到 dst 尾部。Ast。dst,

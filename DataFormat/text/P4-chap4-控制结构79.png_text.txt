@@ -1,0 +1,1 @@
+本章小结结构化编程的基本三种结构iiflelse; switch, While; for; do While可以完成所有复杂的逻辑甚至只需要 if 和 While 就够了,但需要设置更复杂的逻辑表达式(甚至只需要 if 就够了)用好 switch break; continue 能更快捷实现复杂逻辑。熟悉逗号表达式'条件表达式。循环语句来源于g0t0语句。叉 "抛弃"了goto语句

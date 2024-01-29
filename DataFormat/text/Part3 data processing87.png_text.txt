@@ -1,0 +1,1 @@
+数组是在内存中连续存储的一组同类型娈量,这些娈量统-以数组名 +下标的形式访问it a[12] = {1,3,5,-2,-4}; //定义数组,并部分初始化,数组后面的元素自动初始化为0for (i=0;i12;计+)printf("%oda[订);a[0]9[1]a[2]9[3]3[4]8[5]a[6]8[7]9[8]3[9]9[10]9[11]35-2-4内存 (Memory)GOFEF8GOFEFgGOFEFAGOFEFBGOFEFCGOFEFDGOFEFEGOFEFF&a[0]&a[1]GOFFOOGOFFOI0203GOFF24252627GOFF28

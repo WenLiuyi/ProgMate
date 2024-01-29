@@ -1,0 +1,1 @@
+前情回顾整数 (integer)数字常量整数常量实数 (real)量字符 (character)非数字常量字符串 (string): 本质是字符数组7数据类型关键字整型(integer)int, short; long, unsigned.耋实型(real)float; double这些数在计算机中如何编码和存储?字符(character)Char字符串(string)char型的数组或指针22]007008080397720

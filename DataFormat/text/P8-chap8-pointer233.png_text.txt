@@ -1,0 +1,1 @@
+8.5.1指针数组例 8-10按字符串长度排序 (指针数组版)  题意见例 8-5#include〈stdio.h>#include〈string.h>chara[100][1802];1 SaVelinesintmain()int1 j k =0,tmp;char *lines[18o],*temptr;pointertoeachlineintlens [18o];keepIine5lengthWhile(fgets(a[k],1080,stdin )=NULL )reada11linesIines [k]三a[k];这一句话编译器做了什么类lens[k]三strlen(lines [k]);型的隐式转换?ktt;

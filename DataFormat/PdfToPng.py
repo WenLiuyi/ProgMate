@@ -78,5 +78,5 @@ def pdf_to_png_all(pdfDir, zoom_x=5, zoom_y=5, rotation_angle=0):
 
 if __name__ == "__main__":
     #pdf_dir = "D:\\Project\\CuteShq\\ProgMate\\DataFormat\\testfiles"
-    pdf_dir="./testfiles"
+    pdf_dir="./pdf"
     pdf_to_png_all(pdf_dir)

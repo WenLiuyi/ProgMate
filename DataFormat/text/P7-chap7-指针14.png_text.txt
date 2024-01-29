@@ -1,0 +1,1 @@
+71  指针.地址,妾量.内存之间的关条常用的数据实体:  简单娈量和数组int main()变量的属性:CharC;shortS二0;名称(name): 有效的标识符inta二55,b,SUm;类型(type): int 等变量可以看作是内存double d;长度(size): 由类型决定空间的别名int X[20];值(Value): 根据输入或赋值return0;地址(address): 系统分配内存 (Memory)GOFEF8GOFEFg GOFEFAGOFEFBGOFEFCGOFEFDGOFEFEGOFEFF 0GOFFOOGOFFOI60.0203.046.05..06.6.076.08'.09SUhIh8$$$OAe o $0B0CODOQF10

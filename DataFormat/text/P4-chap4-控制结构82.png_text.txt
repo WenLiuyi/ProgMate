@@ -1,0 +1,1 @@
+补充:三种选择结构关条简单的 if 语句即可提供任何形式的选择(即任何能用i/else 语句和 switch语句完成的工作也可以组合简单的 '语句来实现)选择结构讦switch(expression)if/elsea (expression)Casea:switchsfalementla_aclionsClsebreak;statement2Case h:a(expression二二a)b_acfionsa_acfionsbreak;a(expression芒bCase C:h_acfionsa(expression)C_actionsa(expression2C)slatementlbreak;C_actionsa(!expression)stalement2

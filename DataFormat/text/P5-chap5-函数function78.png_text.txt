@@ -1,0 +1,1 @@
+递归调用与返回实例:阶采最后值120#include〈stdio.h〉5!5!返回5!=5*24=120unsigned long long f(int);5 *4!5 *4!返回4!=4*6=24intmain()4 *3!4 *3!int 1;返回3!=3*2=6for(i三1;1<二10;i++ )3 *2!3 *2!printf("%2d!=%lluln" ,1,f(f));返回2!=2*1=22 * 1!2 *1!return0;返回11unsigned long long f(intn)a)  处理递归调用b)  每个递归调用向调用者返回的值讦(n <=1 )return1;注意return(n米f(n-l) );递归中的基本情况不能省略否则会导致无穷递归。

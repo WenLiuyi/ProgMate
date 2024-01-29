@@ -1,0 +1,1 @@
+课后思考题:试试这个程序观察一下结果并分析原因?#include <stdio.h>实践出真知int main0养成自己写程序去模拟和int a =0x80000001;观察的习惯受用终身。iti;for(i=0;i32;1++)Printf("left %24:%08x,Oodl" , i, a<<i, a<<i);return 0;

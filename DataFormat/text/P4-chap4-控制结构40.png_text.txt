@@ -1,0 +1,1 @@
+While语句While语句的特殊形式While(expression)While(expression) ;;/1 do nothing例:  清空输入缓冲区直到新的一行开始While((c二getchar0) != "I');

@@ -1,0 +1,1 @@
+函数的惠义int main0return 0;静动肉存CPU解耦与封装程序萌芽程序长成int getWeek(int day)函数:  面向过程语言进行解耦问题与int getWeekDayint yy,intint dd)intC,Y,m,d,W;封装实现的主要工具没有之!二getCentury (day) ;ZellerformulaV二getyear(day);解耦与封装是个技术问题。更是哲学问题getMonth(day);return weekday;day%loe;Zellerformula从调用的角度来看模块化实现的是功能解耦returnW;从实现的角度来看。模块化实现的是功能封装mM〉

@@ -1,0 +1,1 @@
+7.5 void* 指针 Smemcpy 函 数#include〈stdio.h>输出:VoidMemCpy (void*,ConstVoid*,unsigned long long);12345intmain()00000inta[]二{1,2,3,4,5};int1 b[10]二{0};MemCpy (b,a,sizeof(a) ) ;C 语言标准库提供了一个for(1二0;1<10;1++)数来完成内存之间的复制其函数原型如下。功能是从printf( "%d"9b[1]);Src指向的内存空间拷贝printf( (1十1) %5二 0 ?IIn'");Size字节的内容到_Dst指向的空间,并将_Dst指针值return0;返回Void*memcpy (void米Dst,constVoid米Src,size_tSize) ;

@@ -1,0 +1,1 @@
+7.4.2指针与下标数组下标访问元素指针访问数组元素inta[10];inta[10];int1;int1;for(i=0;i10;i++)scanf("%d",&a[i]) ;for(p=a;p(3+10);p++)scanf("%d"9p);for(i=o;i10;i++)printf( "%da[1]);for(p=a;p(3+10);pt+ )printf("%d*P);for循环头能否为for( ; a<(p+N); 8++)No! 数组名是常量,不能改娈它的值关于数组和指针关系的进步阐述。详见下一章节*P〉

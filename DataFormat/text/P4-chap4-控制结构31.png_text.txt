@@ -1,0 +1,1 @@
+相等关「"="与赋值"二"运算符的进一步说朋赋值int a;a = 6; //娈量赋值相等关系运算inta b c;b =5;C = 7;等价于两条语句的逻辑:二 1, ten 让(gendera = (b == C);/1 ?逻辑错误。还隐蔽地修改了娈量的值。用==运算符进行赋值或用=运算符表示关系相等是个逻辑错误int gender= 0;111表示m2le, 0表示female编程提示讦gender二1 ) /1 ??if ( 1==gender ) , 好的解决方案printf"maleln");if ( 1=gender ) , 会提示语法错误else当"a =二 b"左右两边都是娈量时,printf("femaleln");编程人员要格外心!输出?gender

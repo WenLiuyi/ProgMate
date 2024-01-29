@@ -1,0 +1,1 @@
+按位异或利用异或交换两个娈量的值中间变量 tempa = aAb;temp二 a;b = b^a;a = b;a = aAb;0temp;

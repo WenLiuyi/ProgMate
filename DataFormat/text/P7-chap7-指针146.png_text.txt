@@ -1,0 +1,1 @@
+7.3.9  指针作为函数返回值指针不但可以用作函数的参数,也可以作为函数的返回值。Char*strchr(charintC);Chara[]"thisistest〉char*strrchr(charintc);printf("%xIn"strchr(a,'s'));printf("%cIn"*strchr(a〉's');字符串s中存在字符c, strchr0和strrchr0分别printf("%xln'strrchr(a,'s');返回字符c在s中第一次和最后一次出现的位置printf("%cIn'*strrchr(a,'s';的指针。若无字符c则返回NULL。输出地址62f640..41.42.43.44.45.46.47.48..49.43.4bo4Ch188I0*5〉*5〉

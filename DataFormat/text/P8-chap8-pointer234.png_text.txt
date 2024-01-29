@@ -1,0 +1,1 @@
+8.5.1指针数组例 8-10按字符串长度排席(指针数组版)题意见例8-5for(1二1;  1 < k;i++)1bubble sortingfor(j= ;j <k-1; j++)intdicflag三(lens[j]二=lens[j + 1])8&(strcmp(lines[j],lines [j十1]) >0);讦(Iens [j]〉lens[j+1]|dicflag)tmp三lens[j];lens [j]三lens[j十1];lens[i十1]三tmp;temptr三lines [j];请对比例8-5,说出本例的优点lines [j]三Iines[j十1];Iines[j十1]三temptr;for(1二0;i < k;++i)fputs(Iines[1],stdout);return0;

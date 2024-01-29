@@ -1,0 +1,1 @@
+Switch语句执行逻辑:使用break语句跳出switch(表达式)switch( 表达式)真真CaSe1:语句块1CaSe1:语句块1break;假真真Case 2:语句块2Case 2:语句块2break;真真C35211.语句块1C35CU:语句块1break;defaultactiolsdefaultactiols

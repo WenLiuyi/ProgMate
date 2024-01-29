@@ -1,0 +1,1 @@
+8.7.1函数指针函数指针应该指向与函数原型和函数指针定义一致的函数通过将函数名赋值给函数指针,让它指向某个具体的函数旦函数指针指向-个具体的函数,就可以通过函数指针间接调用它所指向的函数。#include〈stdio.h>intSUMinta,intb )peturn9+b;原型要匹配intmain()int*funptr)(int,int )三SUm;将函数名赋值给函数指针intX二3,y = 4;printf("%d十%d三%dIn'〉XY,funptr(x, y));通过函数指针调用函数也peturn0;可写为:(*funPtr)(X, y)

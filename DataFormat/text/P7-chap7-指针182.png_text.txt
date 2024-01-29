@@ -1,0 +1,1 @@
+7.4.6  指针的强制类型转换将-个int 型数据由小端字节序转换为大端字节序。本例中,需要将 int 型数据的内存布局做调整。可以设置两个单字节类型指针 pL 和 pH(例如charx )分别指向 int 型数据的低字节和高字节,互换内容后 pLt +, pH--直到 pL > =pH。 据此写出代码如下:int90X12345678;定义一个 int 型变量a,后续对它进行字节序调整charchar*pL(char* )&a;char*pH(char* )&a十Sizeofint )1;While(pl<PH)通过高低字节互换内容完成字节序的调整0swap(pLt+,pH--);swap函数见例7-12printf("%#X '〉a);输出:0x78563412tmp;

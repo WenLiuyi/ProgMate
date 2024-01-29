@@ -1,0 +1,1 @@
+递归调用与返回实例:阶采[)11=3例5-10:  求非负长整数的阶乘 n! (n >=0)迁 (n <=1)11 base Casef(n)Lelurn 1;0! 二1,1!=1relurnf(n) = n! = n*(n-1)! = nxf(n-l)卫 *f(11);11 m=n-l=2f(2)=2*f(1)a (皿 <=1)11 base Casef(1)=1relurn 1;f(0)=1relumn皿f(n1); //k = 皿-1 =1f()111=3迕 (k <=1)11 base Caserelurn 1;迕 (n <=1)11 base caserelurnk *f(k-1);refurn 1;retumn卫 *[(11);以n =3为例进行递归调用与返回的过程分析二 1!

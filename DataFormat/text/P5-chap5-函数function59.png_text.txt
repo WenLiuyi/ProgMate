@@ -1,0 +1,1 @@
+自顶向下的模块化思想main自顶向下:getWeekprintWeek是问题层级的向下!不是函数调用的向下!getCenturygetYeargetMonthgetDay是否还要对getWeek细分?mainint getWeek(int day)intC〉Y,m,d,W;C二getCentury (day ) ;Vgetyear(day) ;getYeargetMonthgelDaygetWeekDayprintWeekmgetMonth(day) ;0day%loe;int getWeekDayint yearintmonth,int day)1ZellerformulareturnW;Zellerformulareturnweekday;

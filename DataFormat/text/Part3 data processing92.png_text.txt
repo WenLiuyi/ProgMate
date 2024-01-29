@@ -1,0 +1,1 @@
+定义数组火小讨论实际处理的问题可能很大,如淘宝数据几#define LSize 1000000#define ssize 1000亿个用户(个), 几干万件商品(件), 数#include <stdio.h>组是否应定义为a[M][N]?int voiceData[LSize]; /1函数之外,全局数组数组大小多大合适?  取决于计算机的能力it main0程序算法的设计实际问题的需要double stuScore[ssize]; /1局部数组通常,全局数组可以比较大(比如几4B )局部数组比较小 (通常几十KB)内存是宝贵的计算资源;应合理规划

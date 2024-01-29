@@ -1,0 +1,1 @@
+sizeof(para) 使用范例iti;double d;Char c;输出结果:float f[10];4,48Printf(" @d, Odln" , sizeof(i), sizeof(int));printf(" %odln'-sizeof(d));printf("%odln'sizeof(c));40,4Printf(" Od, %dl'Ssizeof(f), sizeof(f[O]));实际的程序中。可能涉及到很多数组,而每个数组的数量不一,巧用 sizeof可以比较方便地维护程序。如定义宏:#defineArrayNum(x) (sizeof(x)Isizeof(x[0]))

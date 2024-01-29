@@ -1,0 +1,1 @@
+for 应用:最小公倍数(例4-18] 输入两个正整数a和b。计算它们的最小公倍数LCM (设a。bLCM都不超过it围)inta,b,GCD,LCM;scanf("%d%d" _9&6);LCM三a *b;While((GCD三a %b !=0)思考:  如何不利用最小公倍数,3 =b;直接进行步长1的顺序遍历 (从b =GCD;max(a,b)开始递增)这样的方LCM皂LCM/b;printf(LCMis:%dln'9LCM);法求解LCM的效率如何?&a,

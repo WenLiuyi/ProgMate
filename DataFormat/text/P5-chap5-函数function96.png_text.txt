@@ -1,0 +1,1 @@
+空间换时间#include<stdio.h>int main()#include〈time.h>doubleX;#defineMAXN80intn;for(n=35,n〈46。n++)long dp[MAXN];long fib(intn)X=clock();printf("Fib %dis%Idin"nsfib(n) );printf('%fs In"(CIock()-X)/CLOCKSPER_SEC);if(nc=l)return1;return0。if(dp[n] !=0)returndp[n];else思考dp[n]=fib(nI)tfib(n2) ;return dp[n];前面递归求解组合数是不是世有效率问题;如何改进?

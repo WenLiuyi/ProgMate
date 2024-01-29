@@ -1,0 +1,1 @@
+6.5.4标准字符串处理函数例 6-18函数 puts 操作示例1 #include <stdio.h>例6-18代码分析2 #include <string:h>3 it main0第6行,通过判断 gets 的返回值是否为 NULL 来判4断是否遇到文件未尾。5Char str[l000];6While (gets(str) != NULL)第7行,用 puts 函数输出读取到的字符串。7Puts(str);注意由于 puts 函数会额外换行,因此虽然读到的8retumn 0;9字符串中没有换行符,输出依然是行行输出。

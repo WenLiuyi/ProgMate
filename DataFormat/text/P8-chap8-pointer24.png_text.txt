@@ -1,0 +1,1 @@
+8.1指针与数组例 8-1指针遍历数组采用指针而非下标的形式遍历一个数组。遍历的含义是访问数组中的每个元素问题分析:基本做法是定义一个指针指向数组的首元素,然后在循环体内判断指针位置 如果没有超出数组范围则访问指针指向的内容之后指针加1向后移动一个元素。#include〈stdio.h〉#define Arraylen(x)(sizeof(x)sizeof(x[o]) )int main()double d_arr[]二{1,2,3,4,5,6,8};double*pd三NULL;for(pdd_arr;pdd_arr十ArrayLen(d_arr) ;pdtt )printf("%.2fIn"〉*pd);return0;7,

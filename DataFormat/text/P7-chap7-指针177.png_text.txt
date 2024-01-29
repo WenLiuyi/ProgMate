@@ -1,0 +1,1 @@
+7.45  指针的比较VoidstrRev(char*S)charpLow'S,*phigh三While( *phigh)phightt;phigh--;1 |phigh指向 s的最后一个字符While(plowphigh )swap(plowtt_9phigh--);5;

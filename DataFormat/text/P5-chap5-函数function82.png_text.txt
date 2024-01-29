@@ -1,0 +1,1 @@
+gcd 的循环实现(非递归)例4-16的实现]例5-12:  求整数:和6的最大公约数inta,b, gcd;(8>0,620)。scanf("%d%d"9&b);if(0二=)辗转相除算法 gcd(a, b):prn(a);1. gcd(a, b): if bis 0, gcd(a, b) is a, stop。return0;2. gcd(a b): ifa%b is 0, gcd(a, b)is b,3.let r〈a%b,a6b,b <19o to step 2.while( (gcd二a%b )!= 0)gcd(a, b)二gcd(b, a%b) ]a =b;b = gcd;prn(b);&a,StoP。

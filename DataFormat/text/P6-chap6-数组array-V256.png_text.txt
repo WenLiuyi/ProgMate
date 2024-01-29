@@ -1,0 +1,1 @@
+6.3.2折半查找例 6-11折半查找的非递归算法1 it binFind(int b[], itint low, int high)例6-11代码分析23it mid;第4行的 while 循环内部。根据关While( IOw二high )键字与中间元素的关系,不断缩mid = (lOw +high)/2;小查找范围,每次排除-半的元;讧( key == b[mid]素直到找到或者查找失败。return mid;else i (keyb[mid])10highTmid-1;11else思考12IOW二midtl;如果数组中有多个值等于key ,要返13回最先(后)出现的位置该如何14return -1;15 }改写程序?key,

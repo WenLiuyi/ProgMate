@@ -1,0 +1,1 @@
+8.7.3 使用函数指针饷库函数(2)bsearchO 函数 (标准库函数)包含头文件<stdlib.h>Void*bsearch(constVoidconstVoid *base,size_tSize_tWid,int*Cmp )(constVoidConstVoid*e2) );key: 指向待查数据的指针;base: 指向所要查找的数组的首地址;nun:数组中元素查找单元)  的个数;wid: 每-个元素查找单元)  所占用的字节数;cmp: 指向比较函数的指针。规则与qsot相同base 所指向的数组中有与 key 所指向的数据相等的元素时(在c函数规则下两者相等CIP返回0)bsearch0返回该元素的地址,否则返回NULL。数组必须根据c皿规则是有序的*Key,nUm,*e1,

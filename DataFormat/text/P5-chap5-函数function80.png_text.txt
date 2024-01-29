@@ -1,0 +1,1 @@
+递归调用与返回实例:Hibonacci数例5-11:  求Ribonacc数列的值f(n)二f(n - 1) + f(n - 2)Fibonacc数列递归调用的过程 (以f(4)为例)f(4)Fibonacci函数中的每一层递归对调用数有f(3一f(2)"加倍"的效果策个Fibonacci数的递归调f(2)f(1)f(1)f(0)用次数是指数函数(exponential function) ,an (a > 1), 这种问题能让最强大的计算机望而f(1)f(0)1生畏。尽量避免使用计算时间为指数函数的算法。

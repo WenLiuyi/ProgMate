@@ -1,0 +1,1 @@
+条件语句实例: 浮点数的比较#include〈stdio.h〉#include〈math.h〉int main()doubleb,C,plp2dt;doubleeps二le-9;scanf("%If%lf%lf"9&b, &c);dt三b *b -4 *a * c;if (fabs(dt)<eps)思考:printf("one realroot:%fIn" ,-b / (2 *a));1.如何判断d+是否为0?else讦(dt>0.0)2.调整了i判断的顺序:  先判断是否为0,p1三(-b十sqrt(dt))/(2 *a);,2三(-bsqrt(dt))/(2 *a);再考虑大于小于0的情况。为什么?printf("tworealroot: %f,%fIn",p1,p2);elseprintf(norealrootIn" );a,&a,

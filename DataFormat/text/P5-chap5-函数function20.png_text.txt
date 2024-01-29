@@ -1,0 +1,1 @@
+函数调用流程程序通过函数名实现函数调用。执行巳经定义好的函数#include〈stdio.h〉void prn();main()int sq(int);调用:  主调函数执行到函娄名,调用intmain()Prn()sq()被调函数 (调用时可将实参传递给形参)prn();跳转:  跳转到被调函数定义的位置return0;髑Void prn()执行:  按顺序执行被调函数中的语句[intX;返回:  被调函数结束后返回到主调scanf("%d" _&X);printf("%dln"sq(X) );函数的调用位置继续向下执行 (返回时int sq(int X)从哪离开回到哪里可以通过retur语句带个返回值)各司其职独立完成return X*x;关注结果忽略细节分工有序协同合作

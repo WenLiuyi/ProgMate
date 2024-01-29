@@ -1,0 +1,1 @@
+语句块 (复合语句)让(studentGrade >=60)让(studentGrade >=60)Printf("Passedln");Printf("Passedl");elseelsePrintf("Failedl");Printf("Failedln");Printf("降级,再读一年W");printf("降级,再读一年.1");应该这样写i(studentGrade >=60)选择条件 (或循环)下有多条语句时需要Printf("Passedl");用大括号括起来C语言将大括号{}内的多条语句视为逻辑上的Clse一个语句。称为块(block)Printf("Failedln");条件下只有一条语句时建议也用大括号括Printf("降级,再读一年.1");起来,便于程序扩展 (未来在块里添加语句)

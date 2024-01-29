@@ -1,0 +1,1 @@
+6.1.6 一维数组作为函数参数一维数组作为函数参数数组也可以作为函数的形式参数。形参:  声明数组形式参数时[]不能省略但是[]中表示数组长度的整数可以忽略实参:  在主调函数中。以数组名作为实际参数传递:  把数组首元素的地址值作为参数传递给形式参数returnType F(dataTypel [], dataTypel []); // 函数原型it mainddataTypel a[1二dataType2 b]E(a,6;/函数谰用returnType F(paraTypel u[], paraType2 v[]); // 函数定义I访问u 相当于访问 main 中的a,访问 v 相当于访问 main 中的b

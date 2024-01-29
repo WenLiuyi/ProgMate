@@ -1,0 +1,1 @@
+怪象2:0.3等于0.3不成立?1 |C3,0_2C#include〈stdio.h>intmain()intaa625 ,b = 3;printf("%d,%dln" ,(a二二625 ),(b==3) );floatX二0.625,Y =0.3;printf("%d,%d" ,(X?二0.625 ),(y'C0.3) );return0;11,07

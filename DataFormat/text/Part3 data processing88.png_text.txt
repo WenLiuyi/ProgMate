@@ -1,0 +1,1 @@
+数组的类型与火小#define Len 100跟娈量-样,可以定义不同类型的数Sizeof(a) is sizeof(int)*Lenint main组,如double;charint a[Len];sizeof(para)一元运算符计算参数para所占double b[Len];的字节数参数可以是变量数组:类型等char c[Len];a[0]9[1]9[2]9[3]8[4]8[5]3[6]8[7]3[8]3[9]3[10]3[11]135-2-4GOFEF8GOFEFgGOFEFAGOFEFBGOFEFCGOFEFDGOFEFEGOFEFF&a[0]&a[1]内存示意GOFFOOGOFFOI0203GOFF24.25(Memory)2627GOFF28

@@ -1,0 +1,1 @@
+实例:条件表达式if 条件表达式:  用于在条件为 true非0 )时采取相关的操作。见如下例4-1scanf("%d%d&b);讦(0C=b) //另一种写法 if(!b)i(score〉二80&&SCore<90)printf("ThedenominatorisZero,Quit!" );printf(" 成绩:  良");return1;d(double)(a) /b;charC;讦(scanf("%c"9&c)!=EOF&&C>='a&&C <='2')printf("%c" _〉c);if((a二=1) + ( ==2)十 (c二二3)十(d二二4)十(e ==  5)十 (f二二6)=二3)printf("Guessi! U r9normalperson.In" ) ;&a,

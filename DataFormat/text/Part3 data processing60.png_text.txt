@@ -1,0 +1,1 @@
+更多的位运算实例例]把一个16位数无符号数的高低字节互换注:0xfF 为0..011111111OXFFO0 为0..011111111 OO00 OOO0OXFFO000 为0..011111111 O000 OOOO 0000 OOO0unsigned short a, ans;提示:按字节整体处理时,用 OxFF 作为scanf("olu" &a);基本单元更简单快捷 (如本例)anS((a & OXFFOO) > > 8) | ((a & OXFF) << 8)|若对某些个别位进行处理;"从1出发"更显得逻辑清晰 (步骤可能printf("oodln"ans);会多些)

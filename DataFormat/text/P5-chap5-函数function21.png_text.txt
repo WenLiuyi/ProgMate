@@ -1,0 +1,1 @@
+函数传递值例5-3:求三个数的最大值函数调用时传递值#include〈stdio.h〉intmaximum(int,int,int);intmain()形参:  也称为形式参数_函数定义中的参数在函数中也相当于局部变量。inta,b,C;scanf("%d%d%d"&a,&b,&c );实参:也称为实际参数,函数调用中的参数printf("%dln" _maximum(a,b,c));return0;必须有确定的值。实参形参和实参的数量和顺序要严格一致。intmaximumintXsintY,int乙)按序形参和实参的类型原则上要保持致 (不传给intmaX二X;形参致会发生类型转换以形参类型为准, 这if(ymax)MaX二y;可能导致精度损失)i(乙max)函数调用时实参传递给形参是单向的,不能MaX二乙;returnmax;把形参反向传递给实参。

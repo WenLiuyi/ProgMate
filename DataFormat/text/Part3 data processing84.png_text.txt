@@ -1,0 +1,1 @@
+it a,b;Signed char SUm = 0;scanf("%dgod"&b);SUm = 3 +b;从娈量内存的角度来printf("%od+ %d = %dln"a,b, SUm);理解 100+100=-56原来如此!的问题100 100100100二-560.0000001 |1|0 |0|1|0 |01009:int 4召0.00.0000 |1|1|0 |0 |11 00100h: it。 4召OarOOa0Oe0100000-56sum: Char; 1Bchar 类型只占1个Byte (8bits) ,a+b 的高位被截掉&a,

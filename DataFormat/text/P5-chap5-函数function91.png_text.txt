@@ -1,0 +1,1 @@
+Hanoi塔的递归实现婆罗门能否让宇宙毁灭?int main()hanoi(num,a,b, c);Voidhanoiintn,char from,char Via,Char to)if(n二二1 )move(n,from,to);return;hanoi(n-1,from,Via);move(nsfrom_to);hanoi(n-1Via,from,to);Voidmove(int19Charfrom)char to)printf("disk %d,%c一〉%c In"1,from, to);}tO,

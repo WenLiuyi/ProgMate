@@ -1,0 +1,1 @@
+5.3函数调用与返回#include〈stdio.h>Iong long LL_pow(int, int);int main()函数调用现场intXYs N;Scanf(11%d%d"&N);函数调用for (y二1; Y <=N;ytt )两个对象:  被调函数主调函数printf(pow(%d, %d)一%lldln" ,XY,LL_POW(X,y));return0;三类数据:  传递值接收值返回值long long LL_pow(inta,int b实际参数四个动作:  调用跳转执行返回依序传给Iong longans二1;形式参数int1;for (1二1;  1<= b; i++)ans*=a;return ans;&X〉

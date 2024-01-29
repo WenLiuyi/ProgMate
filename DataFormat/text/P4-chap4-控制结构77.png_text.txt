@@ -1,0 +1,1 @@
+got0语句[古老的语句,强烈不建议用)int main()goto语句可能使程序逻辑混乱,使程序难以理解和维护很多语言已经取消了got0语句_intn=0;printf("inputastring: In" );但C语言仍然保留(有时候真的很方便)语句标号Ioop :goto语句能使得程序快速跳转,如直接跳出if(getchar()!二'n')多重循环 (不用多个break)n++;goto Ioop;{printf(" In#t0fthisline:%dln"n);{return0;ERR;输入输出示例C:lalaclexamplelc4- 31_goto.exeinputastring:ERR:0123456789abcde#OfthisIine:15goto
